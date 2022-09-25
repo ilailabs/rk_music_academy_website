@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "61ebf14a13d0499cbf80ef7d9be8d98f",
-"index.html": "9f1f403c3fe512448843c4e4eb384e9c",
-"/": "9f1f403c3fe512448843c4e4eb384e9c",
+"index.html": "9bd1ec81cfc9fe416555530261f19843",
+"/": "9bd1ec81cfc9fe416555530261f19843",
 "main.dart.js": "788bf396e4596cf944daa5d9bd02f057",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -27,11 +26,7 @@ const RESOURCES = {
 "assets/assets/icons8-whatsapp.gif": "6a65ea06eb1a1c9a7738ca615a6cd1f3",
 "assets/assets/IMG_20180318_182820.jpg": "097d65bd6b4294cd8ee1c0dbe9a8b459",
 "assets/assets/logo-1-no-bg.png": "1492ede5350b94f2a3cd4f0c2dbc7922",
-"assets/assets/IMG_20190709_122318.jpg": "91ac815761ff0859098833ce3ff76528",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/IMG_20190709_122318.jpg": "91ac815761ff0859098833ce3ff76528"
 };
 
 // The application shell files that are downloaded before a service worker can
